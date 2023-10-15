@@ -1,7 +1,9 @@
 # procon34_Open
 第34回高専プロコン(procon34)競技部門で優勝したチーム蟹高専のexeを公開します。
 アルゴリズムは以下を参照してください。
-https://twitter.com/Kujira_Box/status/1713500920926101728
+https://twitter.com/Kujira_Box/status/1713500920926101728  
+また、GUIの作成にはOpenSiv3Dを使用しました。https://siv3d.github.io/ja-jp/  
+とてもおすすめです。
 
 # 使用方法
 ## player.json
