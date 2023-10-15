@@ -1,0 +1,7 @@
+{
+    "parallel": 0,
+    "token": "++++your token++++",
+    "url": "localhost:3000/matches",
+    "search_msec": 300,
+    "search_depth": 6
+}
